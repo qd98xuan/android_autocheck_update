@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidAutocheckUpdate.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidAutocheckUpdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidAutocheckUpdate.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidAutocheckUpdate.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autocheckupdate/AndroidAutocheckUpdate.autocheckupdate.iml" filepath="$PROJECT_DIR$/.idea/modules/autocheckupdate/AndroidAutocheckUpdate.autocheckupdate.iml" />
+    </modules>
+  </component>
+</project>
