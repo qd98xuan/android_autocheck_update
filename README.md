@@ -2,7 +2,7 @@
 ## 导入依赖
 ```
 dependencies {
-    implementation 'com.github.qd98xuan:AndroidAutoCheckUpdate:2.0'
+    implementation 'com.github.qd98xuan:android_autocheck_update:1.0'
 }
 allprojects {
      repositories {
